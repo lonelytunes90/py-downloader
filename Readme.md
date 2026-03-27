@@ -17,10 +17,12 @@ A powerful, cross-platform Python script to download Video and Audio from YouTub
 1. Clone this repo:
    ```bash
    git clone https://github.com/lonelytunes90/py-downloader.git
+   ```
    cd py-downloder
-```
 
-2. Install dependencies:
+
+## 2. Install dependencies:
+
 ```bash
 pip install yt-dlp
 ```
